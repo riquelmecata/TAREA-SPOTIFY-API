@@ -22,7 +22,8 @@ Esta aplicación en Ruby consume la API de Spotify usando el flujo de Client Cre
 
 3. Instala las dependencias utilizando Bundler:
    ```bash
-   bundle install
+   gem install ffi     
+   gem install rest-client
    ```
 4. Crea un archivo `credentials.json` en el directorio raíz con el siguiente contenido (reemplaza los valores de ejemplo por tus credenciales):
    ```json
