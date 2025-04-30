@@ -19,8 +19,7 @@ Esta aplicación en Ruby consume la API de Spotify usando el flujo de Client Cre
    ruby -v
    ```
 2. Navega al directorio de la app
-   ```
-   ```
+
 3. Instala las dependencias utilizando Bundler:
    ```bash
    bundle install
